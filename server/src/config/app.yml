@@ -1,4 +1,4 @@
-sessions_secret: python -c 'import os; import base64; print(base64.b64encode(os.urandom(32)))'
+sessions_secret: x7xC8ScVWqhaLWT-7xZhL3QeV9T86r1ChSlUTpJLBhI
 postgres:
   url: "postgresql+psycopg2://trotto-user:6-b:M[r,+g)aD-"I@/trotto-dev?host=/cloudsql/fluxon-alloc-dash:us-west1:allox-main"
 admins:
